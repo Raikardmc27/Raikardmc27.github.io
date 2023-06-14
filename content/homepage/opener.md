@@ -1,0 +1,14 @@
+---
+title: "Benvenuti"
+weight: 1
+---
+
+`Menù` In questo sito voglio condividere le ricette di aluni piatti
+            che possono essere utili per qualsiasi occasione....
+            Dalla cena romantica con la propria compagna, per pasti con
+            la propria famiglia , per sorprendere i vostri amici.
+ 
+
+> portare felicità --- attraverso il sapore
+
+Adesso iniziamo con il nostro menù
