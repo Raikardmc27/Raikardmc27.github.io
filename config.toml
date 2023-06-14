@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "scroll"
 
 # The browser tab name
-title = "benvenuti - nella mia cucina "
+title = "benvenuti nella mia cucina "
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
