@@ -4,7 +4,7 @@ weight: 6
 header_menu: true
 ---
 
-![Jane Doe](images/riso.jpg)
+![Jane Doe](images/mappa.png)
 
 ##### per sapre di più
 - chiamare al numero 123456789
