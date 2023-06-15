@@ -11,6 +11,7 @@ Siamo un coppia affiatata che crede in quello che fa, anni di esperienza passata
 Lucio, assieme al suo secondo, Riccardo aspirante che vuole incrementare le sue doti dietro ai fornelli.
 
 
+
  
 
 
