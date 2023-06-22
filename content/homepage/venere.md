@@ -7,8 +7,11 @@ header_menu: true
 ![Jane Doe](images/lucio.jpg)
 
 ##### LUCIO E RICCARDO
-Siamo un coppia affiatata che crede in quello che fa, anni di esperienza passata ai fornelli per il buon
-Lucio, assieme al suo secondo aspirante, Riccardo che vuole incrementare le sue doti dietro ai fornelli.
+Lucio, lo chef, anni di esperienza dietro ai fornelli è pronto a sorprendervi 
+attraverso un percorso gastronomico.
+Riccardo, l' aiutante, è sempre pronto ad apprendere nuovi modi di preparazione
+dei piatti.
+# scopriamo qualche piatto
 
 
 
