@@ -1,6 +1,6 @@
 ---
 title: "gambero"
-weight: 5
+weight: 3
 header_menu: true
 ---
 
@@ -11,7 +11,7 @@ header_menu: true
 - mozzarella di bufala
 - scorza di limone
 
-Un antipasto come questo per iniziare bene l'evento .
+Un antipasto come questo per iniziare bene l'evento.
 
 ----
 

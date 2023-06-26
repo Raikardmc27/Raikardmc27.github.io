@@ -1,6 +1,6 @@
 ---
 title: "Benvenuti"
-weight: 1
+weight: 2
 ---
 
 `Menù` In questo sito voglio condividere le ricette di alcuni piatti

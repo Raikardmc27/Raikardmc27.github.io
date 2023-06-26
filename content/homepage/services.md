@@ -2,7 +2,7 @@
 title: "pasta allo scoglio"
 header_menu_title: "pasta allo scoglio"
 navigation_menu_title: "Scoglio"
-weight: 2
+weight: 4
 header_menu: true
 ---
 ![Let us get started on a clean slate](images/scoglio.jpg)
