@@ -6,10 +6,10 @@ header_menu: true
 
 ![Jane Doe](images/salmone.jpg)
 
-##### Professional Experience
+##### Sano Leggero Sfizioso
 
-Come secondo piatto troviamo i filetti di salmone infornati con crosta di pistacchi.
+Il salmone in crosta di pistacchi sembra quasi impanato al forno, in modo leggero e gustoso. Sicuramente un’altra panatura croccante che vi consiglio. Io adoro poi l’accoppiata salmone e pistacchi.
 
 ----
 
-leggero , sfizioso.
+
