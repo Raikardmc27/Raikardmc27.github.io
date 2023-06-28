@@ -11,4 +11,5 @@ header_logo: "images/cuoco.png"
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Home Restaurant"
 header_subheadline: "<b>mangia</b> bevi & <b>goditela</b>"
+
 ---
