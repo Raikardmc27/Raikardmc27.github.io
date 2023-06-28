@@ -1,6 +1,6 @@
 ---
-title: "GitHub"
-weight: 99
-header_menu: true
-external: https://github.com/zjedi/hugo-scroll
+title: "BuonAppetito"
+weight: 8
+header_menu: true ![Jane Doe] (images/carne.jpg)![Jane Doe] (images/pasta.jpg)
+
 ---
