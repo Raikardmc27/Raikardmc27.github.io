@@ -11,7 +11,7 @@ header_menu: true
 - la casa si trova in via pinco pallo n.1
 - il menù è sia di terra che di mare
 
-![Jane Doe](images/carne.jpg)
+
 
 
 
@@ -21,3 +21,6 @@ header_menu: true
 
 
 
+
+
+[def]: images/carne.jpg
