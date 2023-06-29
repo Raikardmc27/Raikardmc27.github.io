@@ -4,7 +4,7 @@ weight: 7
 header_menu: true
 ---
 
-![Jane Doe](images/etna.png)
+![Jane Doe](images/etna.jpg)
 
 ##### Per saperne di più
 - chiamare al numero 3207087193
